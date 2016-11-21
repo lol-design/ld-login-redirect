@@ -1,2 +1,2 @@
 # ld-login-redirect
-Redirects "/logginn" to wp-login.php
+WP Plugin that redirects "/logginn" to wp-login.php
